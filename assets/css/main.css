@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css?family=Catamaran:300,400,500,600");
+html, body {
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  font-family: 'Heiti SC', Catamaran, Arial, sans-serif; }
+  html .main-wrapper, body .main-wrapper {
+    padding: 0;
+    margin: 0;
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.3); }
+
+section#home {
+  height: 140vh;
+  background-image: url("../img/back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+  section#home .mobile-menu-button {
+    display: none; }
+  section#home .mobile-menu-container {
+    display: none; }
+  section#home .header {
+    padding: 4rem 6rem;
+    color: #333;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end; }
+    section#home .header .logo h1 {
+      margin: 0;
+      line-height: 1;
+      font-weight: 100; }
+    section#home .header .menu-container a {
+      margin-left: 1rem;
+      color: #333;
+      text-decoration: none;
+      font-weight: 100; }
+      section#home .header .menu-container a:first-child {
+        margin-left: 0; }
+      section#home .header .menu-container a.participate {
+        padding: 0 .5rem;
+        border: 1px solid #333;
+        border-radius: 10px; }
+      section#home .header .menu-container a:hover {
+        opacity: .8; }
+  @media (max-width: 800px) {
+    section#home .header {
+      flex-direction: column;
+      align-items: center; }
+      section#home .header .logo h1 {
+        font-size: 2rem; }
+      section#home .header .menu-container {
+        display: none; }
+    section#home .mobile-menu-button {
+      display: block;
+      position: absolute;
+      font-size: 2rem;
+      top: 4rem;
+      left: 3rem; }
+    section#home .mobile-menu-container {
+      display: flex;
+      flex-direction: column;
+      width: 200px;
+      position: fixed;
+      height: 100vh;
+      top: 0;
+      left: 0;
+      padding: 4rem;
+      background: #fff;
+      box-shadow: 4px 0 10px rgba(0, 0, 0, 0.3);
+      transform: translateX(-110%);
+      transition: transform 300ms ease-in-out;
+      z-index: 1; }
+      section#home .mobile-menu-container.open {
+        transform: translateX(0); }
+      section#home .mobile-menu-container a {
+        margin-bottom: 1rem;
+        color: #333;
+        text-decoration: none;
+        font-size: 2rem;
+        font-weight: 100; }
+        section#home .mobile-menu-container a:first-child {
+          margin-bottom: 3rem; }
+        section#home .mobile-menu-container a.participate {
+          padding: .1rem .8rem;
+          border: 1px solid #333;
+          border-radius: 10px;
+          background: #eee;
+          text-align: center; } }
+  section#home .quote-container {
+    width: 60vw;
+    margin: 0 auto;
+    padding-top: 3rem; }
+    section#home .quote-container .quote p {
+      font-size: 2rem;
+      font-weight: 100;
+      margin: 0;
+      line-height: 1;
+      color: #333; }
+      section#home .quote-container .quote p.author {
+        width: 100%;
+        font-size: 1.2rem;
+        text-align: right;
+        font-style: italic; }
+
+section#about {
+  padding: 0 4rem 4rem;
+  color: #333; }
+  section#about .info-wrapper {
+    max-width: 600px;
+    margin: 0 auto; }
+    section#about .info-wrapper p {
+      line-height: 1.2; }
+
+section#more {
+  background: #050510;
+  color: #fff;
+  padding: 4rem; }
+  section#more .info-wrapper {
+    max-width: 600px;
+    margin: 0 auto; }
+    section#more .info-wrapper p {
+      line-height: 1.2;
+      font-weight: 100; }
+
+section#contact {
+  padding: 4rem 0; }
+  section#contact .contact-link {
+    margin: 0 auto;
+    font-size: 5vw;
+    text-align: center; }
+    section#contact .contact-link a {
+      color: #333;
+      text-decoration: none;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center; }
+      section#contact .contact-link a:hover {
+        color: #aaa; }
+      section#contact .contact-link a span {
+        margin-left: 1rem; }
+    section#contact .contact-link .social-media-links {
+      margin-top: 1rem;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center; }
+      section#contact .contact-link .social-media-links a {
+        margin-left: 2rem; }
+        section#contact .contact-link .social-media-links a:first-child {
+          margin-left: 0; }
+
+section#footer {
+  background: #050510;
+  width: 100%;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center; }

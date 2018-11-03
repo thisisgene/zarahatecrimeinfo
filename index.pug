@@ -1,0 +1,32 @@
+include _includes/head
+
+.main-wrapper
+
+  include _includes/home
+  include _includes/about
+  include _includes/more
+  include _includes/contact
+  include _includes/footer
+
+script.
+  (function() {
+    
+    // scroll to view
+    let linkList = []
+    linkList = document.getElementsByClassName('scroll-link')
+    const mobileMenu = document.getElementById('mobile-menu')
+    
+    for (let link of linkList) {
+      let href = link.href
+      href = href.split("#").pop()
+      link.addEventListener('click', function(e) {
+        e.preventDefault()
+        let element = document.getElementById(href)
+        console.log(element)
+        element.scrollIntoView({behavior: "smooth"})
+        mobileMenu.classList.remove('open')
+
+      })
+    }
+  })()
+  

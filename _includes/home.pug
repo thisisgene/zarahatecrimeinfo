@@ -1,0 +1,47 @@
+section#home
+
+  .home-wrapper
+    .header
+      .logo
+        a
+          h1 HATE CRIME
+          h1 INFO NETWORK
+      .menu-container
+        a(href='#about').scroll-link about
+        a(href='#more').scroll-link more
+        a(href='#contact').scroll-link contact
+        a(href='#participate').participate participate
+    .mobile-menu-button
+      a#mobile-menu-button(onclick='openMenu()')
+        i.fas.fa-bars
+    #mobile-menu.mobile-menu-container
+      a(onclick='closeMenu()')
+        i.fas.fa-times
+      a(href='#about').scroll-link about
+      a(href='#more').scroll-link more
+      a(href='#contact').scroll-link contact
+      a(href='#participate').participate participate
+
+    .quote-container
+      .quote 
+        p Lorem, ipsum dolor
+        p sit amet consectetur adipisicing elit.
+        p.author - A. Bergi
+  script.
+    const mobileMenuButton = document.getElementById('mobile-menu-button')
+    const mobileMenu = document.getElementById('mobile-menu')
+    
+    function openMenu() {
+      
+      console.log(mobileMenu)
+      mobileMenu.classList.add('open')
+    
+
+    }
+    function closeMenu() {
+      
+      console.log(mobileMenu)
+      mobileMenu.classList.remove('open')
+    
+
+    }
