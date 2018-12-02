@@ -1,0 +1,61 @@
+section#home
+
+  .home-wrapper
+    .header
+      .logo
+        a
+          h1 HATE CRIME
+          h1 INFO NETWORK
+
+      .menu-container
+        a(href='#about').scroll-link über uns
+        a(href='#more').scroll-link phänomen 
+          span.italic hate crime
+        a(href='#network').scroll-link netzwerk
+        a(href='#contact').scroll-link kontakt
+        .language-container
+          a.active de
+          span |
+          a(href='/en') en
+    .mobile-menu-button
+      a#mobile-menu-button(onclick='openMenu()')
+        i.fas.fa-bars
+    #mobile-menu.mobile-menu-container
+      
+      a(onclick='closeMenu()')
+        i.fas.fa-times
+      .language-container
+        a.active de
+        span |
+        a(href='/en') en
+      a(href='#about').scroll-link über uns
+        a(href='#more').scroll-link phänomen 
+          span.italic hate crime
+        a(href='#network').scroll-link netzwerk
+        a(href='#contact').scroll-link kontakt
+      
+
+    .quote-container
+      .quote 
+        p Lorem, ipsum dolor
+        p sit amet consectetur adipisicing elit.
+        p.author - A. Bergi
+    .bottom-gradient
+  script.
+    const mobileMenuButton = document.getElementById('mobile-menu-button')
+    const mobileMenu = document.getElementById('mobile-menu')
+    
+    function openMenu() {
+      
+      console.log(mobileMenu)
+      mobileMenu.classList.add('open')
+    
+
+    }
+    function closeMenu() {
+      
+      console.log(mobileMenu)
+      mobileMenu.classList.remove('open')
+    
+
+    }

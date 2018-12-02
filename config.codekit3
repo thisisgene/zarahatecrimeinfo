@@ -9,65 +9,128 @@
 	],
 "creatorBuild": "28905",
 "files": {
-	"/_includes/about.pug": {
+	"/_includes/de/about.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 1,
-		"oAP": "/_includes/about.html",
-		"oF": 1,
-		"oS": 0
-		},
-	"/_includes/contact.pug": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "/_includes/contact.html",
-		"oF": 1,
-		"oS": 0
-		},
-	"/_includes/footer.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "/_includes/footer.html",
-		"oF": 0
-		},
-	"/_includes/footer.pug": {
-		"cB": 0,
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "/_includes/footer.html",
+		"oAP": "/_includes/de/about.html",
 		"oF": 0,
 		"oS": 0
 		},
-	"/_includes/head.pug": {
+	"/_includes/de/contact.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 1,
-		"oAP": "/_includes/head.html",
-		"oF": 1,
+		"oAP": "/_includes/de/contact.html",
+		"oF": 0,
 		"oS": 0
 		},
-	"/_includes/home.pug": {
+	"/_includes/de/footer.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 1,
-		"oAP": "/_includes/home.html",
-		"oF": 1,
+		"oAP": "/_includes/de/footer.html",
+		"oF": 0,
 		"oS": 0
 		},
-	"/_includes/more.pug": {
+	"/_includes/de/head.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 1,
-		"oAP": "/_includes/more.html",
-		"oF": 1,
+		"oAP": "/_includes/de/head.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/de/home.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/de/home.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/de/more.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/de/more.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/de/network.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_includes/de/network.html",
+		"oF": 0
+		},
+	"/_includes/de/network.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/de/network.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/en/about.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/en/about.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/en/contact.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/en/contact.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/en/footer.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/en/footer.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/en/head.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/en/head.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/en/home.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/en/home.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/en/more.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/en/more.html",
+		"oF": 0,
 		"oS": 0
 		},
 	"/assets/css/1-base/main.sass": {
@@ -148,6 +211,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/assets/css/3-sections/network.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/css/3-sections/network.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/assets/css/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -182,6 +258,37 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/assets/img/pdf.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/pdf.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/img/pdf_arrow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/pdf_arrow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/img/zara_logo_simple_small.png": {
+		"ft": 32768,
+		"iS": 11801,
+		"oA": 0,
+		"oAP": "/assets/img/zara_logo_simple_small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/js/jquery-3.2.1.min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -201,6 +308,22 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/en/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/en/index.html",
+		"oF": 0
+		},
+	"/en/index.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "/en/index.html",
+		"oF": 0,
+		"oS": 0
 		},
 	"/index.html": {
 		"cB": 0,
@@ -2217,6 +2340,7 @@
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
+	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"tsAllowSyntheticDefaultImports": 0,
 	"tsAllowUnreachableCode": 0,

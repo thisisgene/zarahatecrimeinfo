@@ -6,17 +6,26 @@ section#home
         a
           h1 HATE CRIME
           h1 INFO NETWORK
+          
       .menu-container
         a(href='#about').scroll-link about
         a(href='#more').scroll-link more
         a(href='#contact').scroll-link contact
         a(href='#participate').participate participate
+        .language-container
+          a(href='/') de
+          span |
+          a.active en
     .mobile-menu-button
       a#mobile-menu-button(onclick='openMenu()')
         i.fas.fa-bars
     #mobile-menu.mobile-menu-container
       a(onclick='closeMenu()')
         i.fas.fa-times
+      .language-container
+        a(href='/') de
+        span |
+        a.active en
       a(href='#about').scroll-link about
       a(href='#more').scroll-link more
       a(href='#contact').scroll-link contact
