@@ -363,26 +363,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/assets/js/jquery-3.2.1.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/assets/js/jquery-3.2.1.min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/assets/js/script.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/assets/js/script-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
