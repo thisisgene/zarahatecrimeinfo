@@ -126,6 +126,13 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/_includes/en/network.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_includes/en/network.html",
+		"oF": 0
+		},
 	"/_includes/en/network.pug": {
 		"cB": 0,
 		"cOD": 1,
@@ -375,6 +382,20 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/download/Memorandum of Understanding_de.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/download/Memorandum of Understanding_de.pdf",
+		"oF": 0
+		},
+	"/download/Memorandum of Understanding_en.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/download/Memorandum of Understanding_en.pdf",
+		"oF": 0
 		},
 	"/en/index.html": {
 		"cB": 0,
