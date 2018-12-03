@@ -3,7 +3,7 @@ html, body {
   background: #fff;
   margin: 0;
   padding: 0;
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: 'Heiti TC', 'Open Sans', Arial, sans-serif;
   font-weight: 300; }
   html .main-wrapper, body .main-wrapper {
     padding: 0;
@@ -96,11 +96,13 @@ section#home {
     section#home {
       padding: 0; }
       section#home .header {
-        padding: 4rem 6rem;
+        padding: 4rem 0rem 4rem 0;
         flex-direction: column;
-        align-items: center; }
+        align-items: center;
+        display: flex; }
         section#home .header .logo h1 {
-          font-size: 2rem; }
+          margin-left: 2rem;
+          font-size: 1.6rem; }
         section#home .header .menu-container {
           display: none; }
       section#home .mobile-menu-button {
@@ -157,12 +159,13 @@ section#home {
     width: 60vw;
     margin: 0 auto;
     padding-top: 3rem;
-    text-align: center; }
+    text-align: left; }
     section#home .quote-container .quote {
       display: flex;
-      flex-direction: column; }
+      flex-direction: column;
+      font-family: 'Montserrat'; }
       section#home .quote-container .quote span {
-        font-size: 2rem;
+        font-size: 1.8rem;
         font-weight: 100;
         margin: 0;
         line-height: 1;
@@ -172,6 +175,16 @@ section#home {
           font-size: 1.2rem;
           text-align: right;
           font-style: italic; }
+    @media (max-width: 800px) {
+      section#home .quote-container {
+        text-align: center;
+        width: 100vw;
+        padding: 3rem 0rem 0; }
+        section#home .quote-container .quote span {
+          font-size: 1.6rem; } }
+    @media (max-width: 800px) and (max-width: 321px) {
+      section#home .quote-container .quote span {
+        font-size: 1.2rem; } }
   section#home .bottom-gradient {
     position: absolute;
     top: calc(140vh - 100px);
