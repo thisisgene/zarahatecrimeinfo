@@ -1,11 +1,28 @@
 section#network
+  background:
+    image: url('../img/network_back.jpg')
+    repeat: no-repeat
+    size: cover
+    attachment: fixed
+  position: relative
+
   @media(max-width: 800px)
     padding: 4rem 1.6rem
 
   .network-item
+    margin-bottom: 2rem
     .logo
-      width: 120px
+      height: 60px
+      margin-bottom: .4rem
       img
-        width: 100%
-    a
+        height: 100%
+    .link
       color: grey
+
+  .bottom-gradient
+    position: absolute
+    bottom: 0
+    left: 0
+    width: 100vw
+    height: 100px
+    background-image: linear-gradient(to bottom, transparent, white) 

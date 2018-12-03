@@ -247,12 +247,44 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/assets/img/ad_steiermark_logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/ad_steiermark_logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/img/antidiskriminierung_steiermark_logo.png": {
+		"ft": 32768,
+		"iS": 16987,
+		"oA": 0,
+		"oAP": "/assets/img/antidiskriminierung_steiermark_logo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/img/back.jpg": {
 		"ft": 16384,
 		"iS": 340577,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/back.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/img/network_back.jpg": {
+		"ft": 16384,
+		"iS": 365126,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/network_back.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -277,6 +309,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/assets/img/weisser_ring_logo.png": {
+		"ft": 32768,
+		"iS": 39347,
+		"oA": 0,
+		"oAP": "/assets/img/weisser_ring_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/assets/img/zara_logo_simple_small.png": {
 		"ft": 32768,

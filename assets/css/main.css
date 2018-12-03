@@ -7,7 +7,8 @@ html, body {
   font-weight: 300; }
   html .main-wrapper, body .main-wrapper {
     padding: 0;
-    margin: 0; }
+    margin: 0;
+    overflow-x: hidden; }
     html .main-wrapper section, body .main-wrapper section {
       padding: 4rem; }
       @media (max-width: 800px) {
@@ -40,7 +41,8 @@ section#home {
   padding: 0;
   background-image: url("../img/back.jpg");
   background-repeat: no-repeat;
-  background-size: cover; }
+  background-size: cover;
+  background-attachment: fixed; }
   section#home .mobile-menu-button {
     display: none; }
   section#home .mobile-menu-container {
@@ -226,20 +228,43 @@ section#more {
     section#more .info-wrapper a {
       color: lightblue; }
 
-@media (max-width: 800px) {
-  section#network {
-    padding: 4rem 1.6rem; } }
-
-section#network .network-item .logo {
-  width: 120px; }
-  section#network .network-item .logo img {
-    width: 100%; }
-
-section#network .network-item a {
-  color: grey; }
+section#network {
+  background-image: url("../img/network_back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative; }
+  @media (max-width: 800px) {
+    section#network {
+      padding: 4rem 1.6rem; } }
+  section#network .network-item {
+    margin-bottom: 2rem; }
+    section#network .network-item .logo {
+      height: 60px;
+      margin-bottom: .4rem; }
+      section#network .network-item .logo img {
+        height: 100%; }
+    section#network .network-item .link {
+      color: grey; }
+  section#network .bottom-gradient {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 100px;
+    background-image: linear-gradient(to bottom, transparent, white); }
 
 section#contact {
-  padding: 4rem 0; }
+  padding: 4rem 6rem; }
+  @media (max-width: 800px) {
+    section#contact {
+      padding: 4rem 1.6rem; } }
+  section#contact .info-wrapper .contact-item {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem; }
+    section#contact .info-wrapper .contact-item .link {
+      color: grey; }
   section#contact .contact-link {
     margin: 0 auto;
     font-size: 5vw;
@@ -267,9 +292,19 @@ section#contact {
           margin-left: 0; }
 
 section#footer {
+  padding: 0;
   background: #050510;
   width: 100%;
   color: #fff;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  font-size: .8rem; }
+  section#footer .impressum {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; }
+    section#footer .impressum a {
+      color: grey; }
