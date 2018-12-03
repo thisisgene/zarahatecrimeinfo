@@ -1,4 +1,26 @@
 section#home
+  #preload
+    position: absolute
+    top: 0
+    left: 0
+    width: 100vw
+    height: 100vh
+    background: white
+    display: flex
+    align-items: center
+    justify-content: center
+    opacity: 1
+    transition: opacity 500ms ease-in-out
+    pointer-events: none
+    .spinner
+      background:
+        image: url('../img/spinner.svg')
+        repeat: no-repeat
+        size: cover
+      width: 40px
+      height: 40px
+    &.loaded
+      opacity: 0
   height: 140vh
   padding: 0
   background:

@@ -17,6 +17,9 @@
 <div class="main-wrapper">
   <section id="home">
     <div class="home-wrapper">
+      <div id="preload">
+        <div class="spinner"></div>
+      </div>
       <div class="header">
         <div class="logo"><a>
             <h1>NETZWERK</h1>
@@ -39,6 +42,12 @@
     <script>
       const mobileMenuButton = document.getElementById('mobile-menu-button')
       const mobileMenu = document.getElementById('mobile-menu')
+      
+      function load() {
+        const preload = document.getElementById('preload')
+        preload.classList.add('loaded')    
+      }
+      window.onload = load
       
       function openMenu() {
         

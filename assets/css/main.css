@@ -43,6 +43,27 @@ section#home {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed; }
+  section#home #preload {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    transition: opacity 500ms ease-in-out;
+    pointer-events: none; }
+    section#home #preload .spinner {
+      background-image: url("../img/spinner.svg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 40px;
+      height: 40px; }
+    section#home #preload.loaded {
+      opacity: 0; }
   section#home .mobile-menu-button {
     display: none; }
   section#home .mobile-menu-container {

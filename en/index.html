@@ -17,6 +17,9 @@
 <div class="main-wrapper">
   <section id="home">
     <div class="home-wrapper">
+      <div id="preload">
+        <div class="spinner"></div>
+      </div>
       <div class="header">
         <div class="logo"><a>
             <h1>NETWORK</h1>
@@ -39,19 +42,21 @@
       const mobileMenuButton = document.getElementById('mobile-menu-button')
       const mobileMenu = document.getElementById('mobile-menu')
       
+      function load() {
+        const preload = document.getElementById('preload')
+        preload.classList.add('loaded')    
+      }
+      window.onload = load
+      
       function openMenu() {
         
         console.log(mobileMenu)
         mobileMenu.classList.add('open')
-      
-      
       }
       function closeMenu() {
         
         console.log(mobileMenu)
         mobileMenu.classList.remove('open')
-      
-      
       }
     </script>
   </section>

@@ -1,6 +1,8 @@
 section#home
 
   .home-wrapper
+    #preload
+        .spinner
     .header
       .logo
         a
@@ -50,17 +52,19 @@ section#home
     const mobileMenuButton = document.getElementById('mobile-menu-button')
     const mobileMenu = document.getElementById('mobile-menu')
     
+    function load() {
+      const preload = document.getElementById('preload')
+      preload.classList.add('loaded')    
+    }
+    window.onload = load
+
     function openMenu() {
       
       console.log(mobileMenu)
       mobileMenu.classList.add('open')
-    
-
     }
     function closeMenu() {
       
       console.log(mobileMenu)
       mobileMenu.classList.remove('open')
-    
-
     }
