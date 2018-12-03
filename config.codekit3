@@ -63,13 +63,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/_includes/de/network.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_includes/de/network.html",
-		"oF": 0
-		},
 	"/_includes/de/network.pug": {
 		"cB": 0,
 		"cOD": 1,
@@ -130,6 +123,24 @@
 		"ft": 512,
 		"oA": 1,
 		"oAP": "/_includes/en/more.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/en/network.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/en/network.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/_includes/impressum.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "/_includes/impressum.html",
 		"oF": 0,
 		"oS": 0
 		},
@@ -194,6 +205,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/3-sections/home.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/assets/css/3-sections/impressum.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/css/3-sections/impressum.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -365,6 +389,22 @@
 		"ft": 512,
 		"oA": 0,
 		"oAP": "/en/index.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/impressum/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/impressum/index.html",
+		"oF": 0
+		},
+	"/impressum/index.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "/impressum/index.html",
 		"oF": 0,
 		"oS": 0
 		},

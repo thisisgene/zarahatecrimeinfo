@@ -4,14 +4,16 @@ section#home
     .header
       .logo
         a
+          h1 NETWORK
+          h1 COUNTERING
           h1 HATE CRIME
-          h1 INFO NETWORK
-          
+
       .menu-container
         a(href='#about').scroll-link about
-        a(href='#more').scroll-link more
+        a(href='#more').scroll-link phenomenon 
+          span.italic hate crime
+        a(href='#network').scroll-link network
         a(href='#contact').scroll-link contact
-        a(href='#participate').participate participate
         .language-container
           a(href='/') de
           span |
@@ -20,22 +22,30 @@ section#home
       a#mobile-menu-button(onclick='openMenu()')
         i.fas.fa-bars
     #mobile-menu.mobile-menu-container
+      
       a(onclick='closeMenu()')
         i.fas.fa-times
       .language-container
-        a(href='/') de
+        a.active de
         span |
-        a.active en
-      a(href='#about').scroll-link about
-      a(href='#more').scroll-link more
-      a(href='#contact').scroll-link contact
-      a(href='#participate').participate participate
+        a(href='/en') en
+      a(href='#about').scroll-link über uns
+        a(href='#more').scroll-link phänomen 
+          span.italic hate crime
+        a(href='#network').scroll-link netzwerk
+        a(href='#contact').scroll-link kontakt
+      
 
     .quote-container
       .quote 
-        p Lorem, ipsum dolor
-        p sit amet consectetur adipisicing elit.
-        p.author - A. Bergi
+        span Network to 
+           
+        span shed light on
+        span and effectively as well as
+        span preventively 
+        span counteract 
+          span.italic hate crime
+    .bottom-gradient
   script.
     const mobileMenuButton = document.getElementById('mobile-menu-button')
     const mobileMenu = document.getElementById('mobile-menu')
