@@ -364,14 +364,14 @@ section#impressum .info-wrapper {
       justify-content: space-between; }
       section#impressum .info-wrapper .eu-disclaim-item:first-child {
         padding-right: 2rem; }
+    @media (max-width: 800px) {
+      section#impressum .info-wrapper .eu-disclaim {
+        display: block; } }
   section#impressum .info-wrapper .logo {
     margin: 0 auto; }
     section#impressum .info-wrapper .logo img {
       height: 70px;
       padding: 0 .5rem; }
-    @media (max-width: 800px) {
-      section#impressum .info-wrapper .logo {
-        display: block; } }
 
 section#impressum hr {
   width: 80%;
