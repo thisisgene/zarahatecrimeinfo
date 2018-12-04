@@ -355,3 +355,24 @@ section#footer {
 section#impressum .info-wrapper {
   display: flex;
   flex-direction: column; }
+  section#impressum .info-wrapper .eu-disclaim {
+    display: flex;
+    flex-direction: row; }
+    section#impressum .info-wrapper .eu-disclaim-item {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between; }
+      section#impressum .info-wrapper .eu-disclaim-item:first-child {
+        padding-right: 2rem; }
+      section#impressum .info-wrapper .eu-disclaim-item img {
+        width: 200px; }
+    @media (max-width: 800px) {
+      section#impressum .info-wrapper .eu-disclaim {
+        display: block; } }
+
+section#impressum hr {
+  width: 80%;
+  height: 1px;
+  border: none;
+  background: #eee;
+  margin: 2rem auto; }

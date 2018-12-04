@@ -310,6 +310,28 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/assets/img/eu_logo_de.png": {
+		"ft": 32768,
+		"iS": 47167,
+		"oA": 0,
+		"oAP": "/assets/img/eu_logo_de.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/eu_logo_en.png": {
+		"ft": 32768,
+		"iS": 39446,
+		"oA": 0,
+		"oAP": "/assets/img/eu_logo_en.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/img/network_back.jpg": {
 		"ft": 16384,
 		"iS": 365126,
