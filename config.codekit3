@@ -310,6 +310,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/assets/img/eu_logo.png": {
+		"ft": 32768,
+		"iS": 7143,
+		"oA": 0,
+		"oAP": "/assets/img/eu_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/img/eu_logo_de.png": {
 		"ft": 32768,
 		"iS": 47167,
@@ -362,6 +373,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/assets/img/sozial_ministerium_logo.png": {
+		"ft": 32768,
+		"iS": 9615,
+		"oA": 0,
+		"oAP": "/assets/img/sozial_ministerium_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/assets/img/spinner.svg": {
 		"ft": 2097152,
