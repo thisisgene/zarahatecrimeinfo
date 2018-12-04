@@ -368,7 +368,7 @@ section#impressum .info-wrapper {
       section#impressum .info-wrapper .eu-disclaim {
         display: block; } }
   section#impressum .info-wrapper .logo {
-    margin: 0 auto; }
+    margin: 1rem auto; }
     section#impressum .info-wrapper .logo img {
       height: 70px;
       padding: 0 .5rem; }
