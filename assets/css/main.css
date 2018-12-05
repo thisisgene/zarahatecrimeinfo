@@ -21,6 +21,8 @@ html, body {
         font-family: Raleway, sans-serif;
         font-size: 2.2rem;
         font-weight: 100; }
+      html .main-wrapper section .link, body .main-wrapper section .link {
+        color: grey; }
       html .main-wrapper section .italic, body .main-wrapper section .italic {
         font-style: italic; }
       html .main-wrapper section .bold-text, body .main-wrapper section .bold-text {
@@ -260,6 +262,8 @@ section#more {
   section#more .info-wrapper {
     max-width: 600px;
     margin: 0 auto; }
+    section#more .info-wrapper li {
+      margin-bottom: 1rem; }
     section#more .info-wrapper p {
       line-height: 1.2;
       font-weight: 100; }
