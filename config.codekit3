@@ -278,16 +278,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/assets/img/ad_steiermark_logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/img/ad_steiermark_logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"/assets/img/antidiskriminierung_steiermark_logo.png": {
 		"ft": 32768,
 		"iS": 16987,
@@ -299,6 +289,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/img/ara_logo.png": {
+		"ft": 32768,
+		"iS": 309456,
+		"oA": 0,
+		"oAP": "/assets/img/ara_logo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/aufstehn.jpg": {
+		"ft": 16384,
+		"iS": 2484,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/aufstehn.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/img/back.jpg": {
 		"ft": 16384,
 		"iS": 340577,
@@ -308,6 +320,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/assets/img/dokustelle_logo.png": {
+		"ft": 32768,
+		"iS": 68526,
+		"oA": 0,
+		"oAP": "/assets/img/dokustelle_logo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"/assets/img/eu_logo.png": {
@@ -343,6 +366,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/img/logo-fga.png": {
+		"ft": 32768,
+		"iS": 1746,
+		"oA": 0,
+		"oAP": "/assets/img/logo-fga.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/img/network_back.jpg": {
 		"ft": 16384,
 		"iS": 365126,
@@ -373,6 +407,28 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/assets/img/queer_base_logo.png": {
+		"ft": 32768,
+		"iS": 67767,
+		"oA": 0,
+		"oAP": "/assets/img/queer_base_logo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/romano_centro_logo.jpg": {
+		"ft": 16384,
+		"iS": 29449,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/romano_centro_logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/assets/img/sozial_ministerium_logo.png": {
 		"ft": 32768,
@@ -411,6 +467,28 @@
 		"iS": 11801,
 		"oA": 0,
 		"oAP": "/assets/img/zara_logo_simple_small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/ZARA_training_logo.jpg": {
+		"ft": 16384,
+		"iS": 113057,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/ZARA_training_logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/ZARA_training_logo.png": {
+		"ft": 32768,
+		"iS": 47909,
+		"oA": 0,
+		"oAP": "/assets/img/ZARA_training_logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
