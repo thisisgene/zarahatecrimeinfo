@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Catamaran:300,400,500,600|Montserrat|Raleway:100,400|Open+Sans:100,300,400,700");
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Raleway:100,400|Open+Sans:100,300,400,700");
 html, body {
   background: #fff;
   margin: 0;
   padding: 0;
-  font-family: 'Heiti TC', 'Open Sans', Arial, sans-serif;
+  font-family: 'Open Sans', Arial, sans-serif;
   font-weight: 300; }
   html .main-wrapper, body .main-wrapper {
     padding: 0;
@@ -186,7 +186,7 @@ section#home {
     section#home .quote-container .quote {
       display: flex;
       flex-direction: column;
-      font-family: 'Montserrat'; }
+      font-family: 'Montserrat', sans-serif; }
       section#home .quote-container .quote span {
         font-size: 1.8rem;
         font-weight: 100;
