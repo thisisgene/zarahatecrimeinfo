@@ -366,6 +366,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/img/hosi-logo.png": {
+		"ft": 32768,
+		"iS": 43487,
+		"oA": 0,
+		"oAP": "/assets/img/hosi-logo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/img/logo-fga.png": {
 		"ft": 32768,
 		"iS": 1746,
@@ -375,6 +386,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/Migrare-Logo.jpg": {
+		"ft": 16384,
+		"iS": 24958,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/Migrare-Logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/img/network_back.jpg": {
@@ -502,6 +524,13 @@
 		"oAP": "/CNAME",
 		"oF": 0
 		},
+	"/download/Handbuch fuer Praktikerinnen_hate crime entgegentreten.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/download/Handbuch fuer Praktikerinnen_hate crime entgegentreten.pdf",
+		"oF": 0
+		},
 	"/download/Memorandum of Understanding_de.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -514,6 +543,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/download/Memorandum of Understanding_en.pdf",
+		"oF": 0
+		},
+	"/download/old/Memorandum of Understanding_de.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/download/old/Memorandum of Understanding_de.pdf",
+		"oF": 0
+		},
+	"/download/old/Memorandum of Understanding_en.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/download/old/Memorandum of Understanding_en.pdf",
 		"oF": 0
 		},
 	"/en/index.html": {
