@@ -126,13 +126,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/_includes/en/network.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_includes/en/network.html",
-		"oF": 0
-		},
 	"/_includes/en/network.pug": {
 		"cB": 0,
 		"cOD": 1,
@@ -447,6 +440,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/romano_centro_logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/sos_mitmensch_logo.jpg": {
+		"ft": 16384,
+		"iS": 50483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/sos_mitmensch_logo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
