@@ -396,6 +396,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/img/logo_site_Sozialministerium.png": {
+		"ft": 32768,
+		"iS": 11145,
+		"oA": 0,
+		"oAP": "/assets/img/logo_site_Sozialministerium.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/img/Migrare-Logo.jpg": {
 		"ft": 16384,
 		"iS": 24958,
