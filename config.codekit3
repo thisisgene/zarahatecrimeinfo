@@ -288,7 +288,7 @@
 		},
 	"/assets/img/antidiskriminierung_steiermark_logo.png": {
 		"ft": 32768,
-		"iS": 7521,
+		"iS": 16987,
 		"oA": 0,
 		"oAP": "/assets/img/antidiskriminierung_steiermark_logo.png",
 		"oF": 0,
@@ -299,7 +299,7 @@
 		},
 	"/assets/img/ara_logo.png": {
 		"ft": 32768,
-		"iS": 15430,
+		"iS": 309456,
 		"oA": 0,
 		"oAP": "/assets/img/ara_logo.png",
 		"oF": 0,
@@ -321,7 +321,7 @@
 		},
 	"/assets/img/back.jpg": {
 		"ft": 16384,
-		"iS": 752329,
+		"iS": 340577,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/back.jpg",
@@ -332,7 +332,7 @@
 		},
 	"/assets/img/dokustelle_logo.png": {
 		"ft": 32768,
-		"iS": 15214,
+		"iS": 68526,
 		"oA": 0,
 		"oAP": "/assets/img/dokustelle_logo.png",
 		"oF": 0,
@@ -354,7 +354,7 @@
 		},
 	"/assets/img/eu_logo_de.png": {
 		"ft": 32768,
-		"iS": 5491,
+		"iS": 47167,
 		"oA": 0,
 		"oAP": "/assets/img/eu_logo_de.png",
 		"oF": 0,
@@ -365,7 +365,7 @@
 		},
 	"/assets/img/eu_logo_en.png": {
 		"ft": 32768,
-		"iS": 5426,
+		"iS": 39446,
 		"oA": 0,
 		"oAP": "/assets/img/eu_logo_en.png",
 		"oF": 0,
@@ -376,7 +376,7 @@
 		},
 	"/assets/img/hosi-logo.png": {
 		"ft": 32768,
-		"iS": 19985,
+		"iS": 43487,
 		"oA": 0,
 		"oAP": "/assets/img/hosi-logo.png",
 		"oF": 0,
@@ -420,7 +420,7 @@
 		},
 	"/assets/img/Migrare-Logo.jpg": {
 		"ft": 16384,
-		"iS": 10704,
+		"iS": 24958,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/Migrare-Logo.jpg",
@@ -431,7 +431,7 @@
 		},
 	"/assets/img/network_back.jpg": {
 		"ft": 16384,
-		"iS": 57158,
+		"iS": 365126,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/network_back.jpg",
@@ -462,7 +462,7 @@
 		},
 	"/assets/img/queer_base_logo.png": {
 		"ft": 32768,
-		"iS": 18930,
+		"iS": 67767,
 		"oA": 0,
 		"oAP": "/assets/img/queer_base_logo.png",
 		"oF": 0,
@@ -659,10 +659,11 @@
 	},
 "projectAttributes": {
 	"creationDate": 595952285.53109503,
-	"displayValue": "anna",
+	"displayValue": "hate crime info",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-payne",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 562942124.42329204
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

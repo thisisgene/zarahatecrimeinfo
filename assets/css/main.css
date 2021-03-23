@@ -37,11 +37,10 @@ html, body {
           html .main-wrapper section .block-quote, body .main-wrapper section .block-quote {
             margin: 1rem;
             padding: 1rem; } }
-
 section#home {
   height: 140vh;
   padding: 0;
-  background-color: #eef;
+  background-image: url("../img/back.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed; }
