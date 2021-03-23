@@ -4,10 +4,10 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "171EFC32-53D0-418B-AD20-3AC923C2EA52"
+		"uuidString": "9BB63783-77BA-4F23-8DAE-92537EA16AFB"
 		}
 	],
-"creatorBuild": "31491",
+"creatorBuild": "32137",
 "files": {
 	"/_includes/de/about.pug": {
 		"cB": 0,
@@ -163,112 +163,112 @@
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/1-base/main.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/css/3-sections/about.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/3-sections/about.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/css/3-sections/contact.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/3-sections/contact.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/css/3-sections/footer.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/3-sections/footer.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/css/3-sections/home.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/3-sections/home.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/css/3-sections/impressum.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/3-sections/impressum.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/css/3-sections/more.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/3-sections/more.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/css/3-sections/network.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/3-sections/network.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/css/main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/assets/css/main-min.css",
 		"oF": 0,
 		"oS": 3
@@ -277,34 +277,34 @@
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/assets/css/main.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/img/antidiskriminierung_steiermark_logo.png": {
 		"ft": 32768,
-		"iS": 16987,
+		"iS": 7521,
 		"oA": 0,
 		"oAP": "/assets/img/antidiskriminierung_steiermark_logo.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"/assets/img/ara_logo.png": {
 		"ft": 32768,
-		"iS": 309456,
+		"iS": 15430,
 		"oA": 0,
 		"oAP": "/assets/img/ara_logo.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -321,23 +321,23 @@
 		},
 	"/assets/img/back.jpg": {
 		"ft": 16384,
-		"iS": 340577,
+		"iS": 752329,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/back.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/assets/img/dokustelle_logo.png": {
 		"ft": 32768,
-		"iS": 68526,
+		"iS": 15214,
 		"oA": 0,
 		"oAP": "/assets/img/dokustelle_logo.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -354,34 +354,34 @@
 		},
 	"/assets/img/eu_logo_de.png": {
 		"ft": 32768,
-		"iS": 47167,
+		"iS": 5491,
 		"oA": 0,
 		"oAP": "/assets/img/eu_logo_de.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"/assets/img/eu_logo_en.png": {
 		"ft": 32768,
-		"iS": 39446,
+		"iS": 5426,
 		"oA": 0,
 		"oAP": "/assets/img/eu_logo_en.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"/assets/img/hosi-logo.png": {
 		"ft": 32768,
-		"iS": 43487,
+		"iS": 19985,
 		"oA": 0,
 		"oAP": "/assets/img/hosi-logo.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -420,24 +420,24 @@
 		},
 	"/assets/img/Migrare-Logo.jpg": {
 		"ft": 16384,
-		"iS": 24958,
+		"iS": 10704,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/Migrare-Logo.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/assets/img/network_back.jpg": {
 		"ft": 16384,
-		"iS": 365126,
+		"iS": 57158,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/network_back.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/assets/img/pdf.svg": {
@@ -447,7 +447,7 @@
 		"oAP": "/assets/img/pdf.svg",
 		"oF": 0,
 		"opt": 0,
-		"plM": 3758088159,
+		"plM": 52780316221407,
 		"prP": 0
 		},
 	"/assets/img/pdf_arrow.svg": {
@@ -457,17 +457,17 @@
 		"oAP": "/assets/img/pdf_arrow.svg",
 		"oF": 0,
 		"opt": 0,
-		"plM": 3758088159,
+		"plM": 52780316221407,
 		"prP": 0
 		},
 	"/assets/img/queer_base_logo.png": {
 		"ft": 32768,
-		"iS": 67767,
+		"iS": 18930,
 		"oA": 0,
 		"oAP": "/assets/img/queer_base_logo.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -511,7 +511,7 @@
 		"oAP": "/assets/img/spinner.svg",
 		"oF": 0,
 		"opt": 0,
-		"plM": 3758088159,
+		"plM": 52780316221407,
 		"prP": 0
 		},
 	"/assets/img/weisser_ring_logo.png": {
@@ -557,14 +557,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
-		},
-	"/CNAME": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/CNAME",
-		"oF": 0
 		},
 	"/download/Handbuch fuer Praktikerinnen_hate crime entgegentreten.pdf": {
 		"cB": 0,
@@ -646,7 +638,7 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/index.html",
 		"oF": 0
 		},
@@ -666,12 +658,11 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 562861196.34833002,
-	"displayValue": "hate crime info",
+	"creationDate": 595952285.53109503,
+	"displayValue": "anna",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-trap",
-	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 562942124.42329204
+	"iconImageName": "brackets-payne",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1106,6 +1097,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -1210,6 +1202,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-param-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"dot-location": {
 			"active": 0,
 			"optionString": "'object'"
@@ -1262,6 +1258,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
+			},
 		"guard-for-in": {
 			"active": 0,
 			"optionString": ""
@@ -1280,7 +1280,7 @@
 			},
 		"id-match": {
 			"active": 0,
-			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true, 'ignoreDestructuring': false}"
 			},
 		"implicit-arrow-linebreak": {
 			"active": 0,
@@ -1372,7 +1372,7 @@
 			},
 		"new-parens": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "'always'"
 			},
 		"newline-per-chained-call": {
 			"active": 0,
@@ -1424,7 +1424,7 @@
 			},
 		"no-confusing-arrow": {
 			"active": 0,
-			"optionString": "{'allowParens': false}"
+			"optionString": "{'allowParens': true}"
 			},
 		"no-console": {
 			"active": 1,
@@ -1437,6 +1437,10 @@
 		"no-constant-condition": {
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
+			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-continue": {
 			"active": 0,
@@ -1463,6 +1467,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -1556,6 +1564,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -1762,6 +1774,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-setter-return": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-shadow": {
 			"active": 0,
 			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
@@ -1780,7 +1796,7 @@
 			},
 		"no-tabs": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{allowIndentationTabs: false}"
 			},
 		"no-template-curly-in-string": {
 			"active": 0,
@@ -1966,6 +1982,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-named-capture-group": {
 			"active": 0,
 			"optionString": ""
@@ -1981,6 +2001,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -2048,7 +2072,7 @@
 			},
 		"sort-keys": {
 			"active": 0,
-			"optionString": "'asc', {'caseSensitive': true, 'natural': false}"
+			"optionString": "'asc', {'caseSensitive': true, 'natural': false, 'minKeys': 2}"
 			},
 		"sort-vars": {
 			"active": 0,
@@ -2590,7 +2614,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -2659,13 +2682,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
+		"compilerType": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,
@@ -2704,7 +2727,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"pluginMask": 3758088159
+		"pluginMask": 52780316221407
 		},
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
@@ -2730,6 +2753,9 @@
 	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
@@ -3018,7 +3044,7 @@
 			"flagValue": -1
 			},
 		"unused": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"warnings": {
