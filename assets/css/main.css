@@ -41,7 +41,7 @@ html, body {
 section#home {
   height: 140vh;
   padding: 0;
-  background-image: url("../img/back.jpg");
+  background-color: #eef;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed; }
