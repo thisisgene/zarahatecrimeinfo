@@ -558,6 +558,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
+		"oF": 0
+		},
 	"/download/Handbuch fuer Praktikerinnen_hate crime entgegentreten.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -659,7 +667,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 595952285.53109503,
-	"displayValue": "hate crime info",
+	"displayValue": "zarahatecrimeinfo",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-payne",
 	"iconImageWasSetByUser": 0,
