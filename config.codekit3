@@ -440,6 +440,94 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/img/neu/03-zara-logo-quer.png": {
+		"ft": 32768,
+		"iS": 68784,
+		"oA": 0,
+		"oAP": "/assets/img/neu/03-zara-logo-quer.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/neu/03-zara_training-logo-quer.png": {
+		"ft": 32768,
+		"iS": 64053,
+		"oA": 0,
+		"oAP": "/assets/img/neu/03-zara_training-logo-quer.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/neu/2018_BMI_Logo_deutsch_4c.jpg": {
+		"ft": 16384,
+		"iS": 48764,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/neu/2018_BMI_Logo_deutsch_4c.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/neu/GAW_Logo_srgb.jpg": {
+		"ft": 16384,
+		"iS": 6728,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/neu/GAW_Logo_srgb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/neu/HOSI-Sbg-Logo_web.png": {
+		"ft": 32768,
+		"iS": 9131,
+		"oA": 0,
+		"oAP": "/assets/img/neu/HOSI-Sbg-Logo_web.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/neu/logo-antisemitismus-meldestelle.jpg": {
+		"ft": 16384,
+		"iS": 15908,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/neu/logo-antisemitismus-meldestelle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/neu/Logo_antidiskriminierung_DEFrgb.jpg": {
+		"ft": 16384,
+		"iS": 219174,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/neu/Logo_antidiskriminierung_DEFrgb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/img/neu/WEISSER RING LOGO NEU.jpg": {
+		"ft": 16384,
+		"iS": 68326,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/neu/WEISSER RING LOGO NEU.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/img/pdf.svg": {
 		"ft": 2097152,
 		"miP": 0,
