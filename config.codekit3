@@ -470,7 +470,7 @@
 		"oAP": "/assets/img/neu/2018_BMI_Logo_deutsch_4c.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/img/neu/GAW_Logo_srgb.jpg": {
@@ -481,7 +481,7 @@
 		"oAP": "/assets/img/neu/GAW_Logo_srgb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/img/neu/HOSI-Sbg-Logo_web.png": {
